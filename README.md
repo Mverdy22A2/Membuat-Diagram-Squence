@@ -34,7 +34,8 @@ Sistem POS adalah sistem yang digunakan oleh bisnis untuk memproses transaksi pe
 <h2>2. Sistem TDB (Tata Data Barang)</h2>
 
 Sistem TDB, atau Tata Data Barang, adalah sistem yang digunakan untuk mengelola dan mengatur data barang dalam sebuah organisasi. Sistem ini membantu dalam:
-   
+
+<ul>  
 <li>Manajemen Data Barang: Menyimpan dan mengelola informasi tentang barang seperti deskripsi, harga, kategori, dan pemasok.</li>
     
 <li>Pengelolaan Stok: Melacak jumlah barang yang tersedia, mencatat penerimaan dan pengeluaran barang dari gudang.</li>
@@ -42,3 +43,4 @@ Sistem TDB, atau Tata Data Barang, adalah sistem yang digunakan untuk mengelola 
 <li>Pemrosesan Pesanan: Mengelola pesanan barang dari pelanggan, mencatat pesanan masuk dan keluar, dan mengkoordinasikan dengan departemen terkait.</li>
     
 <li>Integrasi dengan Sistem Lain: Berinteraksi dengan sistem lain seperti POS, CRM (Customer Relationship Management), dan SCM (Supply Chain Management) untuk memastikan data barang yang konsisten dan akurat di seluruh sistem.</li>
+</ul>
