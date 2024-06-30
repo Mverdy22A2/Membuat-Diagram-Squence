@@ -15,25 +15,30 @@ Nim : 312210214
 
 ## Keterangan : 
 
-- Sistem POS (Point of Sale)
+<h2>1. Sistem POS (Point of Sale)</h2>
+
 Sistem POS adalah sistem yang digunakan oleh bisnis untuk memproses transaksi penjualan. Biasanya, sistem ini terdiri dari perangkat keras dan perangkat lunak yang bekerja sama untuk merekam transaksi penjualan, mengelola inventaris, dan menyediakan laporan bisnis. Fungsi utama dari sistem POS meliputi:
 
+<ul>
+<li>Pemrosesan Transaksi: Menghitung total pembelian, pajak, dan menangani berbagai metode pembayaran seperti tunai, kartu kredit/debit, dan pembayaran digital.</li>
 
-    - Pemrosesan Transaksi: Menghitung total pembelian, pajak, dan menangani berbagai metode pembayaran seperti tunai, kartu kredit/debit, dan pembayaran digital.
+<li>Manajemen Inventaris: Melacak stok barang secara real-time, memberikan peringatan ketika stok barang menipis, dan membantu dalam pengelolaan pesanan ulang.</li>
 
-    - Manajemen Inventaris: Melacak stok barang secara real-time, memberikan peringatan ketika stok barang menipis, dan membantu dalam pengelolaan pesanan ulang.
+<li>Pelaporan dan Analisis: Menyediakan laporan penjualan, analisis tren, dan data pelanggan untuk membantu pengambilan keputusan bisnis.</li>
 
-    - Pelaporan dan Analisis: Menyediakan laporan penjualan, analisis tren, dan data pelanggan untuk membantu pengambilan keputusan bisnis.
+<li>Manajemen Pelanggan: Merekam informasi pelanggan dan mengelola program loyalitas atau diskon.</li>
+</ul>
 
-    - Manajemen Pelanggan: Merekam informasi pelanggan dan mengelola program loyalitas atau diskon.
+-------------------------------------------
 
-- Sistem TDB (Tata Data Barang)
+<h2>2. Sistem TDB (Tata Data Barang)</h2>
+
 Sistem TDB, atau Tata Data Barang, adalah sistem yang digunakan untuk mengelola dan mengatur data barang dalam sebuah organisasi. Sistem ini membantu dalam:
-
-    - Manajemen Data Barang: Menyimpan dan mengelola informasi tentang barang seperti deskripsi, harga, kategori, dan pemasok.
-
-    - Pengelolaan Stok: Melacak jumlah barang yang tersedia, mencatat penerimaan dan pengeluaran barang dari gudang.
-
-    - Pemrosesan Pesanan: Mengelola pesanan barang dari pelanggan, mencatat pesanan masuk dan keluar, dan mengkoordinasikan dengan departemen terkait.
-
-    - Integrasi dengan Sistem Lain: Berinteraksi dengan sistem lain seperti POS, CRM (Customer Relationship Management), dan SCM (Supply Chain Management) untuk memastikan data barang yang konsisten dan akurat di seluruh sistem.
+   
+<li>Manajemen Data Barang: Menyimpan dan mengelola informasi tentang barang seperti deskripsi, harga, kategori, dan pemasok.</li>
+    
+<li>Pengelolaan Stok: Melacak jumlah barang yang tersedia, mencatat penerimaan dan pengeluaran barang dari gudang.</li>
+    
+<li>Pemrosesan Pesanan: Mengelola pesanan barang dari pelanggan, mencatat pesanan masuk dan keluar, dan mengkoordinasikan dengan departemen terkait.</li>
+    
+<li>Integrasi dengan Sistem Lain: Berinteraksi dengan sistem lain seperti POS, CRM (Customer Relationship Management), dan SCM (Supply Chain Management) untuk memastikan data barang yang konsisten dan akurat di seluruh sistem.</li>
